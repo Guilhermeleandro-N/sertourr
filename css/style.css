@@ -599,9 +599,9 @@ a:focus {
 
 .client_section .box .client_info .client_name h6 {
   margin-bottom: 0;
-  color: #000000;
+  color: #ffffff;
   font-weight: normal;
-  font-size: 15px;
+  font-size: 12px;
   text-transform: uppercase;
 }
 
